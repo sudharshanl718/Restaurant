@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Idly",
+        "price": 1,
+        "description": "Idly is a soft, fluffy steamed rice cake from South India, made from fermented rice and urad dal batter, often served with chutneys and sambar.",
+        "images": [
+            {
+                "image": "/images/products/Idli.jpg"
+            }
+        ],
+        "stock":50
+    },
+    {
+        "name": "Dosa",
+        "price": 3,
+        "description": "Dosa is a popular South Indian dish made from fermented rice and lentil batter, cooked into crispy crepes. It's typically served with chutneys and sambar.",
+        "images": [
+            {
+                "image": "/images/products/Dosa.jpeg"
+            }
+        ],
+        "stock":50
+    },
+    {
+        "name": "Vada",
+        "price": 2,
+        "description": "Vada is a crispy, savory fritter made from lentil batter, spiced with chilies and herbs, often served with chutneys and sambar.",
+        "images": [
+          {
+            "image": "/images/products/Vada.png"
+          }
+        ],
+        "stock": 50
+      },
+    {
+        "name": "Upma",
+        "price": 2,
+        "description": "Upma is a savory porridge made from semolina, cooked with vegetables and spices, creating a warm and hearty breakfast dish.",
+        "images": [
+          {
+            "image": "/images/products/Upma.png"
+          }
+        ],
+        "stock": 50
+    },
+    {
+        "name": "Pongal",
+        "price": 3,
+        "description": "Pongal is a South Indian rice dish made with ghee, cumin, pepper, and lentils, offering a rich and comforting flavor.",
+        "images": [
+          {
+            "image": "/images/products/Pongal.png"
+          }
+        ],
+        "stock": 50
+    },
+    {
+        "name": "Poha",
+        "price": 2,
+        "description": "Poha is a light and fluffy dish made from flattened rice, seasoned with turmeric, mustard seeds, and garnished with fresh herbs.",
+        "images": [
+          {
+            "image": "/images/products/Poha.png"
+          }
+        ],
+        "stock": 50
+    },
+    {
+        "name": "Pesarattu",
+        "price": 3,
+        "description": "Pesarattu is a type of dosa made from green gram batter, offering a unique and nutritious twist on the traditional dosa.",
+        "images": [
+          {
+            "image": "/images/products/Pesarattu.png"
+          }
+        ],
+        "stock": 50
+    },
+    {
+        "name": "Uttapam",
+        "price": 3,
+        "description": "Uttapam is a thick pancake made from fermented rice and lentil batter, topped with vegetables and spices, served with chutneys.",
+        "images": [
+          {
+            "image": "/images/products/Uttapam.png"
+          }
+        ],
+        "stock": 50
+    },
+    {
+        "name": "Puri",
+        "price": 1,
+        "description": "Puri is a deep-fried bread made from whole wheat flour, often served with potato curry or chickpea stew.",
+        "images": [
+          {
+            "image": "/images/products/Puri.png"
+          }
+        ],
+        "stock": 50
+    },
+    {
+        "name": "Chapati",
+        "price": 1,
+        "description": "Chapati is a whole wheat flatbread, cooked on a griddle, commonly served with various curries and dals.",
+        "images": [
+          {
+            "image": "/images/products/Chapati.png"
+          }
+        ],
+        "stock": 50
+    },
+    {
+        "name": "Biryani",
+        "price": 5,
+        "description": "Biryani is a flavorful rice dish cooked with fragrant spices, meats, or vegetables, often served with raita or curry.",
+        "images": [
+          {
+            "image": "/images/products/Biryani.png"
+          }
+        ],
+        "stock": 50
+    },
+    {
+        "name": "Samosa",
+        "price": 1,
+        "description": "Samosa is a crispy, triangular pastry filled with spiced potatoes and peas, served with chutneys.",
+        "images": [
+          {
+            "image": "/images/products/Samosa.png"
+          }
+        ],
+        "stock": 50
+    }
+]

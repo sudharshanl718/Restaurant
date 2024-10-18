@@ -1,0 +1,121 @@
+.pr {
+  margin-right: 200px;
+}
+
+.card {
+  padding: 10px 0;
+}
+
+.card-button {
+  width: 100%;
+  padding: 5px;
+  text-align: center;
+  margin: 0 auto;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
+
+.minus {
+  width: 20px;
+  height: 30px;
+  text-align: center;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+}
+
+.count {
+  width: 20px;
+  height: 30px;
+  font-weight: bold;
+  border: none;
+  background-color: white;
+}
+
+.plus {
+  width: 20px;
+  height: 30px;
+  background-color: green;
+  color: white;
+  font-weight: bold;
+}
+
+.cart-span {
+  color: red;
+  font-weight: bold;
+  margin-left: -10px;
+}
+
+.cart-item {
+  display: flex;
+  border: 1px solid black;
+  width: 60%;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.price {
+  margin-top: 20px;
+}
+
+.order-summary {
+  width: 300px;
+  height: 230px;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 10px;
+  position: absolute;
+  top: 100px;
+  right: 50px;
+}
+
+.place-order {
+  width: 100%;
+  background-color: yellow;
+  color: black;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.bt7 {
+  height: 20px;
+  border: none;
+  background-color: white;
+}
+
+.h2 {
+  text-align: center;
+  align-content: center;
+  min-height: 300px;
+}
+
+#cart {
+  text-decoration-line: none;
+}
+
+#products {
+  min-height: 500px;
+}
+
+.cart {
+  min-height: 500px;
+}
+
+.addcart {
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+}
+
+#title, #link {
+  text-decoration-line: none;
+}
+
+.bt3 {
+  background-color: yellow;
+}
